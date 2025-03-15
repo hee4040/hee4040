@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   #### 🌱 I am learning about new programming language.<br/>
   #### 😆 I want to meet new people and work with them.
   <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   ### Language
