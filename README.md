@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=250&section=header&text=Welcome%20to%20hee's%20Github%20%)
+  ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=250&section=header&text=Welcome%20to%20hee's%20Github%20%)
   
 </div>
 
