@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=250&section=header&text=Welcome%20to%20hee's%20Github%20%)
+  ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=150&section=header&text=Welcome%20to%20hee's%20Github%20%)
   
 </div>
 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   #### 🔥 I aim to become an app developer or AI researcher.<br/>
   #### 🌱 I am learning about new programming language.<br/>
   #### 😆 I want to meet new people and work with them.
+  #### 
   <br/>
   
   ## 🧱 Tech Stack
